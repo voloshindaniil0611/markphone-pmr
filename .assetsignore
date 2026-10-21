@@ -1,0 +1,8 @@
+# Не выкладываем на сайт служебные файлы
+.git
+.gitignore
+.assetsignore
+.nojekyll
+wrangler.jsonc
+*.md
+.claude

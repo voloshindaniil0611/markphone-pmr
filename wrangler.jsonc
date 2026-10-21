@@ -1,0 +1,6 @@
+// Настройки Cloudflare: сайт — просто папка с файлами, без серверного кода
+{
+  "name": "markphone-pmr",
+  "compatibility_date": "2025-10-01",
+  "assets": { "directory": "." }
+}
