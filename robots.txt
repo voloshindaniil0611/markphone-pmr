@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://markphone-pmr.voloshin-daniil0611.workers.dev/sitemap.xml
+Sitemap: https://markphone-pmr.dvdstudio.workers.dev/sitemap.xml
